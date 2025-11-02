@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "react-hot-toast": "^2.5.1"
+  }
+}
