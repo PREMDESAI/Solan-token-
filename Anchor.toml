@@ -20,4 +20,4 @@ wallet = "/home/harry/.config/solana/id.json"
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
 
 [test]
-startup_wait = 60 # Increase the wait time (in seconds)
+startup_wait = 60 # wait time (in seconds)
